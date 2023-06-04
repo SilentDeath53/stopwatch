@@ -1,1 +1,2 @@
-# stopwatch
+# Stopwatch
+A simple Stopwatch application.
